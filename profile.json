@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "login": "supchik666",
+  "seed": "#D9E8FB",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "projects",
+    "stack",
+    "wave",
+    "buttons",
+    "about",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "about"
+  ],
+  "hero": {
+    "greeting": " Im gay 😭😭🥀🥀✌️✌️",
+    "name": "Paket ",
+    "subtitle": "I’m created some pieces of shi 😭😭✌️✌️",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "brand:habr",
+        "label": "Stratosphere?"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": []
+  },
+  "stack": {
+    "title": "About me 😭😭😭🥀🥀🥀✌️✌️✌️💀💀",
+    "groups": [
+      {
+        "title": "Languages ",
+        "items": [
+          {
+            "icon": "brand:go",
+            "label": "Golang"
+          },
+          {
+            "icon": "coffee",
+            "label": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "Claude code"
+          },
+          {
+            "icon": "brand:vimeo",
+            "label": "Vim"
+          }
+        ]
+      },
+      {
+        "title": "Operating system",
+        "items": [
+          {
+            "icon": "brand:linux",
+            "label": "Linux x86-64"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Legendary-Vajara",
+      "MythicalGT"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/bXC5PXUQ"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
