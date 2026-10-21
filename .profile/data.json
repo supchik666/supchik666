@@ -1,0 +1,222 @@
+{
+ "key": "2b0170f0",
+ "stars": 0,
+ "contributions": 74,
+ "repos": 9,
+ "followers": 0,
+ "languages": [
+  [
+   "Java",
+   217148
+  ],
+  [
+   "GLSL",
+   59844
+  ],
+  [
+   "Python",
+   50561
+  ],
+  [
+   "CSS",
+   9355
+  ],
+  [
+   "Scheme",
+   8556
+  ],
+  [
+   "Luau",
+   5319
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "supchik666",
+   "url": "https://github.com/supchik666/supchik666",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "lucid",
+   "url": "https://github.com/supchik666/lucid",
+   "text": "A dynamic desktop shell for Hyprland",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "apprpc-icons",
+   "url": "https://github.com/supchik666/apprpc-icons",
+   "text": "App icons published by apprpc for Discord Rich Presence",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "apprpc",
+   "url": "https://github.com/supchik666/apprpc",
+   "text": "Discord Rich Presence for the focused window on niri and Hyprland",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "niri-dots",
+   "url": "https://github.com/supchik666/niri-dots",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "dotfiles",
+   "url": "https://github.com/supchik666/dotfiles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "GLSL",
+   "topics": []
+  },
+  {
+   "name": "MythicalGT",
+   "url": "https://github.com/supchik666/MythicalGT",
+   "text": "GregTech CEu Modern addon for Mythic Metals CE Port: alloy-smelter recipes + a full GT tool line for every metal",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "mythicmetals-forge-port",
+   "url": "https://github.com/supchik666/mythicmetals-forge-port",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Legendary-Vajara",
+   "url": "https://github.com/supchik666/Legendary-Vajara",
+   "text": "Adds Vajara tht INSTA MINES!!!",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
