@@ -1,5 +1,5 @@
 {
- "key": "a335d60b",
+ "key": "ae815c0c",
  "stars": 0,
  "contributions": 74,
  "repos": 9,
@@ -134,9 +134,13 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
